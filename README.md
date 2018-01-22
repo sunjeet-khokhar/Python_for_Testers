@@ -3,7 +3,7 @@ Self learning course modules that enable Testers (from non-tech/non-coding backg
 
 ## Backstory
 We created these self learning modules as part of an internal upskilling programme that we have been running internally for our Test practice. I in my (ex) Service Lead role created this course as part of 3 step upskilling program to uplift the collective Technical capability our in Test practice.
-Calum wore the Python "SME" hat and together we have co-authored the slide-decks and exercises, with him lending his expertise,better code quality and mana in general 
+Calum wore the Python "SME" hat and together we have co-authored the slide-decks and exercises, with him lending his expertise,better code quality and leading the classroom sessions
 
 ## Who should go through this course ?
     -- Testers who have no background or experience in coding but are curious to develop problem solving skills through coding
