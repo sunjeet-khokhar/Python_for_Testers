@@ -15,6 +15,8 @@ Calum wore the Python "SME" hat and together we have co-authored the slide-decks
 ## Python version used in this course?
 3.0
 
+## Course content (as of Jan,2018)
+
 ## How best to consume this course ?
     -- 
   
