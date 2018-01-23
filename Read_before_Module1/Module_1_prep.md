@@ -1,5 +1,5 @@
 ### Pre-requisites for Module1
-1. Check that Python is installed successfully on your local machine/AWS instance [TBC by following these instructions]()
+1. Check that Python is installed successfully on your local machine/AWS instance [by following these instructions](https://github.com/sunjeet-khokhar/Python_for_Testers/blob/master/Read_before_Module1/Python%20installation%20insutrctions.docx)
 
 2. Install Wing IDE from here →  https://wingware.com/downloads/wing-personal
 
